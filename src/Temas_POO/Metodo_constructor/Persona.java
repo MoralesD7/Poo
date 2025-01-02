@@ -1,4 +1,4 @@
-package Temas_POO.Metodo_onstructor;
+package Temas_POO.Metodo_constructor;
 /*
 Es un ejemplo de como crear una clase , creacion de metodos , creacion de objeto y
 asignacion de valores a los atributos

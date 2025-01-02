@@ -7,6 +7,7 @@ public class Estudiante extends Persona {
 
     //creacion del constructor
     public Estudiante(String nombre ,String apellido ,int edad , int numero_boleta, String estado){
+        //la palabra reservada super se utiliza para inicializar los objetos correspondientes
         super(nombre, apellido, edad);
         this.numero_boleta = numero_boleta;
         this.estado = estado;

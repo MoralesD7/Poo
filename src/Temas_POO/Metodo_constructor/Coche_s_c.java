@@ -1,4 +1,4 @@
-package Temas_POO.Metodo_onstructor;
+package Temas_POO.Metodo_constructor;
 //esta es una prueba de que pasa si la clase no tiene metodo constructur
 /*el metodo constructor es para asegurar que los datos insertados tengan valores inicializados
 antes de inicializar el programa de lo contrario se mostrara un poderoos null o 0 dependiendo del tipo de dato */

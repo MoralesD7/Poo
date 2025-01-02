@@ -1,4 +1,4 @@
-package Temas_POO.Metodo_onstructor;
+package Temas_POO.Metodo_constructor;
 //la sobrecarga de metodos es la creacion de varios metodos con el mismo nombre pero dif parametros
 public class Sobrecarga {
     String marca ;
