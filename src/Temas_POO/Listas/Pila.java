@@ -1,5 +1,6 @@
 package Temas_POO.Listas;
-
+//esto es una creacion desde el punto de POO  pero tambien tenmos a su clase stack
+//una manera mas comoda de trabajar igual que arraylist
 public class Pila {
     //Atributo de pila
     Nodo raiz = null ;

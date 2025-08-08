@@ -1,4 +1,4 @@
-package Temas_POO.Arraylist;
+package Temas_POO.Listas;
 //necesitamos importar la libreria
 import java.util.ArrayList;
 
